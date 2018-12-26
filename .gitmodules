@@ -1,4 +1,0 @@
-[submodule "submoduleTest"]
-	path = submoduleTest
-	url = https://github.com/hyunwoo91/submoduleTest.git
-	branch = hero
